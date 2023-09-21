@@ -1,0 +1,66 @@
+Rv0678	G6fs (Del_16–17 gg)	Bedaquiline 	Battaglia S, 2020	R	0.5	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+Rv0678	Q9fs (Ins_27 c)	Bedaquiline 	Battaglia S, 2020	R	0.5	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+Rv0678	Y92fs (Ins_274 a)	Bedaquiline 	Battaglia S, 2020	R	0.5	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+ddn	M1fs (Del_2 t)	Delamanid	Battaglia S, 2020	R	2	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+ddn	S14fs (Del_41 g)	Delamanid	Battaglia S, 2020	R	>4	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+ddn-fbiA	g-18a	Delamanid	Battaglia S, 2020	R	>4	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+ddn	Q58Stop 	Delamanid	Battaglia S, 2020	R	>4	3	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+fbiA	C287Stop 	Delamanid	Battaglia S, 2020	R	4	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+fbiC	A855fs 	Delamanid	Battaglia S, 2020	R	0.5	28	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_checked
+fbiC-fbiB	A855fs (Del 62 nt)	Delamanid	Battaglia S, 2020	R	0.25	1	H37Rv reference strain (GenBank accession number NC_000962.3	clinical 	WGS	32907992	10.1128/JCM.01304-20	SRP128089	mutation_not_parsed
+Rv0678	−10_–9insG	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R	2 (mg/L)	1		vitro	WGS	37003285	10.1016/S2666-5247(23)00002-2	ERX5619327, ERX10074915, ERX10074916, ERX10074917	mutation_not_parsed
+Rv0678	C2147	Bedaquiline 	Guo Q, 2022	R		2		clinical 	WGS 	35694543	10.3389/fcimb.2022.807095	PRJNA766993	mutation_not_checked
+Rv1979c	c.151T>A	Bedaquiline 	Rivière E, 2022	R 	0.5	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv2535c	c.306C>G	Bedaquiline 	Rivière E, 2022	R 	0.5	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0676c	c.2381T>C	Bedaquiline 	Rivière E, 2022	R 	0.5	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0678	c.198dupG	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0678	c.226C>A	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0678	c.275dupA	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0678	c.466dupC	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv1979c	c.1226G>A	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0676c	c.2381T>C	Bedaquiline 	Rivière E, 2022	R 	0.25	(low frequency variant)	H37Rv	clinical 	WGS	35758754	10.1128/aac.00322-22	PRJEB50385	mutation_not_checked
+Rv0678	P129fs deletion	Bedaquiline	Le Ray LF, 2022	R	2 mg/L	1		clinical 	WGS	35447056	10.3201/eid2805.212517	PRJNA768393	mutation_not_parsed
+Rv0678	G66fs deletion	Bedaquiline	Le Ray LF, 2022	R	2 mg/L	1		clinical 	WGS	35447056	10.3201/eid2805.212517	PRJNA768393	mutation_not_parsed
+atpE	I66M substitution 	Bedaquiline	Le Ray LF, 2022	R	4 mg/L	1		clinical 	WGS	35447056	10.3201/eid2805.212517	PRJNA768393	mutation_not_parsed
+Rv0678	 N98fs deletion	Clofazimine	Le Ray LF, 2022	R	2 mg/L	1		clinical 	WGS	35447056	10.3201/eid2805.212517	PRJNA768393	mutation_not_parsed
+Rv0678	RAMAELQDLADVGLRALGDAPPQRSRRLREMRDLLAYMENVVSDALGRYSQRTGEDD109RGNGRTAGPGfs	Bedaquiline 	Saeed DK, 2022	R	0.5  (µg/ml)	1		clinical 	WGS	35209842	10.1186/s12866-022-02475-4	PRJNA717333	mutation_not_parsed
+Rv0678	SGGISTNARMLIQFGFIERLAVAGDRRTYFRLRPNAFAAGERERIRAMAELQDLADVGLRALGDAPPQRSRRLREMRDLLAYMENVVSDALGRYSQRTGEDD64SGGSAPMPGCfs	Bedaquiline 	Saeed DK, 2022	R	0.5  (µg/ml)	1		clinical 	WGS	35209842	10.1186/s12866-022-02475-4	PRJNA717333	mutation_not_parsed
+Rv0678	G25VCRVfs	Bedaquiline 	Saeed DK, 2022	R	0.5  (µg/ml)	1		clinical 	WGS	35209842	10.1186/s12866-022-02475-4	PRJNA717333	mutation_not_parsed
+atpE	9187c	Bedaquiline 	Degiacomi G, 2020	R	8 (ug/ml)	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+atpE	9187c	Bedaquiline 	Degiacomi G, 2020	R	4	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+atpE	9187c	Bedaquiline 	Degiacomi G, 2020	R	4	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+atpE	9187c	Bedaquiline 	Degiacomi G, 2020	R	4	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+atpE	9187c	Bedaquiline 	Degiacomi G, 2020	R	4	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+Rv0678	9120c	Bedaquiline 	Degiacomi G, 2020	R	0.5	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+Rv0678	961t	Bedaquiline 	Degiacomi G, 2020	R	0.5	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+Rv0678	9197a 	Bedaquiline 	Degiacomi G, 2020	R	0.25	1		vitro	WGS	33042066	10.3389/fmicb.2020.559469	not available	mutation_not_checked
+Rv0678	g-14a C46Y	Bedaquiline 	Wu SH, 2021	R		1	H37Rv (GenBank: AL123456.3)	clinical 	sanger 	34745058	10.3389/fmicb.2021.754249	NA	mutation_not_parsed
+Rv0678	Del 11_63 Fs	Bedaquiline 	Wu SH, 2021	R		1	H37Rv (GenBank: AL123456.3)	clinical 	sanger 	34745058	10.3389/fmicb.2021.754249	NA	mutation_not_parsed
+Rv0678	Ins g 181_182 Fs 	Bedaquiline 	Wu SH, 2021	R		2	H37Rv (GenBank: AL123456.3)	clinical 	sanger 	34745058	10.3389/fmicb.2021.754249	NA	mutation_not_parsed
+Rv0678	Ins a 274_275 Fs 	Bedaquiline 	Wu SH, 2021	R		1	H37Rv (GenBank: AL123456.3)	clinical 	sanger 	34745058	10.3389/fmicb.2021.754249	NA	mutation_not_parsed
+Rv0678	IS6110 insertion 71 position/498 bp	Bedaquiline/clofazimine	Antoine R, 2021	R			TB_RSA126	clinical 	WGS	34287057	10.1128/Spectrum.00019-21	PRJNA739842	mutation_not_parsed
+Rv0678	IS6110 insertion 71 position/498 bp	Bedaquiline/clofazimine	Antoine R, 2021	R			TB_RSA64	clinical 	WGS	34287057	10.1128/Spectrum.00019-21	PRJNA739842	mutation_not_parsed
+Rv0678	IS6110 insertion 71 position/498 bp	Bedaquiline/clofazimine	Antoine R, 2021	R			TB_RSA63	clinical 	WGS	34287057	10.1128/Spectrum.00019-21	PRJNA739842	mutation_not_parsed
+Rv0678	IS6110 insertion 71 position/498 bp	Bedaquiline/clofazimine	Antoine R, 2021	R			TKK-01-0074	clinical 	WGS	34287057	10.1128/Spectrum.00019-21	PRJNA739842	mutation_not_parsed
+Rv0678	IS6110 insertion 71 position/498 bp	Bedaquiline/clofazimine	Antoine R, 2021	R			KT-0084	clinical 	WGS	34287057	10.1128/Spectrum.00019-21	PRJNA739842	mutation_not_parsed
+Rv0678	c.117_118dupGT	Bedaquiline 	Yoshiyama T, 2021	R				clinical 	WGS	32730621	10.1093/cid/ciaa1064	not available	mutation_not_checked
+fbiC	c.1325_1326dupCG	Delamanid	Yoshiyama T, 2021	R				clinical 	WGS	32730621	10.1093/cid/ciaa1064	not available	mutation_not_checked
+mmpR	E49stop	Bedaquiline	Zimenkov DV, 2017	R				clinical 	sanger 	28387862	10.1093/jac/dkx094	NA	mutation_not_parsed
+ddn	G38fs	Delamanid	Liu Y, 2022	R	16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+ddn	G39fs	Delamanid	Liu Y, 2022	R	16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+ddn	T40fs	Delamanid	Liu Y, 2022	R	0.5 to 1	2		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+ddn	P45fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+ddn	R54fs	Delamanid	Liu Y, 2022	R	16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+ddn	P145fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+ddn	E150fs	Delamanid	Liu Y, 2022	R	0.5 to 16	3		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fgd1	L202fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fgd1	P290fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiA	E103fs	Delamanid	Liu Y, 2022	R	16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiA	E249fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiB	P67fs	Delamanid	Liu Y, 2022	R	4	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiB	A246fs	Delamanid	Liu Y, 2022	R	8	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+fbiC	C59*	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+fbiC	R115fs	Delamanid	Liu Y, 2022	R	2 to 16	6		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiC	F255fs	Delamanid	Liu Y, 2022	R	8	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_parsed
+fbiC	A668fs	Delamanid	Liu Y, 2022	R	>16	1		clinical 	sanger 	36448833	10.1128/aac.00531-22	NA	mutation_not_checked
+Rv0678	D165fs	Bedaquiline	Perumal R, 2023	R				clinical 	WGS	37193296	10.2147/IDR.S408976	not available	mutation_not_parsed
