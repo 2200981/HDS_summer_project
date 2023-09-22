@@ -1,0 +1,412 @@
+ddn@g241a	Delamanid	Yang, 2018 	R
+ddn@g242a	Delamanid	Yang, 2018 	R
+Rv0678@a292g	Bedaquiline	Yang, 2018 	R
+Rv0678@a63c	Bedaquiline	Yang, 2018 	R
+Rv0678@a91c	Bedaquiline	Yang, 2018 	R
+Rv0678@c268t	Bedaquiline	Yang, 2018 	R
+Rv0678@c33t	Bedaquiline	Yang, 2018 	R
+Rv0678@c33t	Bedaquiline	Yang, 2018 	R
+Rv0678@t236c	Bedaquiline	Yang, 2018 	R
+Rv0678@c98g	Bedaquiline	Yang, 2018 	R
+Rv0678@g368a	Bedaquiline	Yang, 2018 	R
+rrl@g2270c	Linezolid	Jian Du, 2021	R
+rrl@g2270t	Linezolid	Jian Du, 2021	R
+rrl@g2270t	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+rplC@t460c	Linezolid	Jian Du, 2021	R
+Rv0678@x492_ins_ga	Bedaquiline	Yan Hu, 2023	R
+Rv0678@x274_ins_a	Bedaquiline	Yan Hu, 2023	R
+Rv0678@R96W	Bedaquiline 	Battaglia S, 2020	R
+Rv0678@M111K	Bedaquiline 	Battaglia S, 2020	R
+ddn@P2Q	Delamanid	Battaglia S, 2020	R
+ddn@R30H	Delamanid	Battaglia S, 2020	R
+ddn@G34E	Delamanid	Battaglia S, 2020	R
+ddn@T140I	Delamanid	Battaglia S, 2020	R
+fgd1@G314E	Delamanid	Battaglia S, 2020	R
+fbiA@K2E	Delamanid	Battaglia S, 2020	R
+fbiA@V154I	Delamanid	Battaglia S, 2020	R
+fbiA@I208V	Delamanid	Battaglia S, 2020	R
+fbiA@I209V	Delamanid	Battaglia S, 2020	R
+fbiA@R304Q	Delamanid	Battaglia S, 2020	R
+fbiB@G221S	Delamanid	Battaglia S, 2020	R
+fbiB@D224N	Delamanid	Battaglia S, 2020	R
+fbiB@G273R	Delamanid	Battaglia S, 2020	R
+fbiC@Y104C	Delamanid	Battaglia S, 2020	R
+fbiC@L228F	Delamanid	Battaglia S, 2020	R
+fbiC@P523L	Delamanid	Battaglia S, 2020	R
+fbiC@N724S	Delamanid	Battaglia S, 2020	R
+fbiC@S762N	Delamanid	Battaglia S, 2020	R
+fbiC@A835V	Delamanid	Battaglia S, 2020	R
+fbiC@A856P	Delamanid	Battaglia S, 2020	R
+atpE@a83t	Bedaquiline 	Ismail N, 2018	R
+Rv0678@c403g	Bedaquiline 	Ismail N, 2018	R
+atpE@a83g	Bedaquiline 	Ismail N, 2018	R
+atpE@g187c	Bedaquiline 	Ismail N, 2018	R
+Rv0678@x193_del_g	Clofazimine	Ismail N, 2018	R
+Rv0678@x193_del_g	Clofazimine	Ismail N, 2018	R
+Rv0678@a65t	Clofazimine	Ismail N, 2018	R
+Rv0678@t407c	Clofazimine	Ismail N, 2018	R
+Rv0678@c214t	Clofazimine	Ismail N, 2018	R
+Rv0678@g137a	Clofazimine	Ismail N, 2018	R
+Rv0678@a97g	Clofazimine	Ismail N, 2018	R
+rplC@t460c	Linezolid	Ismail N, 2018	R
+rplC@t460c	Linezolid	Ismail N, 2018	R
+rrl@g2270c	Linezolid	Ismail N, 2018	R
+rrl@a2810c	Linezolid	Ismail N, 2018	R
+rplC@t460c	Linezolid	Ismail N, 2018	R
+rplC@t460c	Linezolid	Ismail N, 2018	R
+Rv0678@V85F	Clofazimine	Liu Y, 2021	R
+Rv0678@A86V	Clofazimine	Liu Y, 2021	R
+Rv0678@R109P	Clofazimine	Liu Y, 2021	R
+Rv0678@Q131H	Clofazimine	Liu Y, 2021	R
+pepQ@L145I	Clofazimine	Liu Y, 2021	R
+Rv0678@x16_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x26_del_ag	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x40_del_c	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x49_del_a	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x62_del_a	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gly24Val	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gly25Ser	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x89_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu40Ser	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x120_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu43Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu43Arg	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu44Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala57Glu	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala62Asp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ser63Gly	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x192_ins_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x193_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gly66Glu	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ser68Gly	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu74Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x228_ins_t	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala84Val	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x263_ins_t	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x274_ins_a	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x281_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x291_ins_a	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x292_del_a	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala99Val	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala102Thr	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gly103Arg	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu114Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ala118Asp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x360_del_g	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gly121Glu	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu122Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x374_del_t	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu125Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu136Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x417_ins_cgggatctgttggcatatat	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x425_del_t	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x426_ins_ttggcata	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Ser151Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Leu154Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@x465_ins_c	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+atpE@Ala63Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@a152g	Bedaquiline	Zheng H, 2021	R
+Rv0678@a152g	Clofazimine	Zheng H, 2021	R
+Rv0678@t157c	Bedaquiline 	Zheng H, 2021	R
+Rv0678@t157c	Clofazimine	Zheng H, 2021	R
+rplC@t460c	Linezolid	Zheng H, 2021	R
+ddn@g241a	Delamanid	Zheng H, 2021	R
+fbiC@g952a	Delamanid	Zheng H, 2021	R
+Rv0678@Ala86Val	Bedaquiline	Zheng H, 2021	R
+Rv0678@Ile108Thr	Bedaquiline	Zheng H, 2021	R
+rplC@Cys154Arg	Linezolid	Zheng H, 2021	R
+rrl@g2270c	Linezolid	Zheng H, 2021	R
+rrl@g2270t	Linezolid	Zheng H, 2021	R
+Rv0678@g188a	Bedaquiline 	Wang G, 2021	R
+Rv0678@a292g	Bedaquiline 	Wang G, 2021	R
+rplC@t460c	Linezolid	Wang G, 2021	R
+Rv0678@g188a	Clofazimine	Wang G, 2021	R
+Rv0678@a292g	Clofazimine	Wang G, 2021	R
+Rv0678@t124g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t78g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t131c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t425g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g120t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g308c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t254a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t179c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g71t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t341c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x184_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x436_del_at	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x363_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x425_del_tgttggcatatatggagaacgtcgtctccgacgccctggggcgatacagccagcgaac	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x205_del_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x187_del_agcagcggggggatcag	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x209_del_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x471_del_c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x216_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x451_del_t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x198_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x349_del_c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x158_del_c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x424_del_ctgtt	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x95_del_t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x415_del_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x19_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x51_del_gga	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x439_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x286_ins_cg	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x198_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x346_ins_gac	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x253_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x430_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x209_ins_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x275_ins_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x279_ins_tt	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x279_del_cc	Bedaquiline 	Guo Q, 2022	R
+Rv0678@c214t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@c214t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t179c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t341c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t341c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t350c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g194a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g304a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@c15g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g269c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g404a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g73a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t365c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@a476c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@g448c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@c343t	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t461c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t425g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t425g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@t179g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x425_del_tgttggcatatatggagaacgtcgtctccgacgccctggggcgatacagccagcgaac	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x198_del_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x53_del_a	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x349_del_c	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x286_ins_cg	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x286_ins_cg	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x346_ins_gac	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x253_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x111_ins_tcgattgttgggc	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x199_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x466_ins_g	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x39_ins_g	Bedaquiline 	Guo Q, 2022	R
+glpK@x572_ins_g	Bedaquiline 	Guo Q, 2022	R
+glpK@x572_ins_g	Bedaquiline 	Guo Q, 2022	R
+glpK@x814_del_c	Bedaquiline 	Guo Q, 2022	R
+glpK@x818_ins_c	Bedaquiline 	Guo Q, 2022	R
+glpK@x572_ins_g	Bedaquiline 	Guo Q, 2022	R
+glpK@g646a	Bedaquiline 	Guo Q, 2022	R
+glpK@x816_del_gg	Bedaquiline 	Guo Q, 2022	R
+glpK@x816_ins_cc	Bedaquiline 	Guo Q, 2022	R
+Rv0678@x38_del_a	Bedaquiline 	Rivière E, 2022	R
+Rv0678@x198_del_g	Bedaquiline 	Rivière E, 2022	R
+Rv0678@x138_ins_g	Clofazimine	Park S, 2022	R
+Rv0678@g149a	Clofazimine	Park S, 2022	R
+pepQ@g1010t	Clofazimine	Park S, 2022	R
+Rv0678@R82G	Bedaquiline	Kobayashi M, 2022	R
+Rv1979c@x1014_del_a	Clofazimine	Kardan-Yamchi J, 2020	R
+Rv0678@x16_del_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x193_del_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@G24D	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x192_ins_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x192_ins_g	Clofazimine	Chesov E, 2022	R
+Rv0678@T58P	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x193_del_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@S63G	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x192_ins_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x192_ins_g	Clofazimine	Chesov E, 2022	R
+Rv0678@L142P	Bedaquiline 	Chesov E, 2022	R
+Rv0678@L142P	Clofazimine	Chesov E, 2022	R
+Rv0678@x136_ins_g	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x136_ins_g	Clofazimine	Chesov E, 2022	R
+Rv0678@x141_ins_c	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x141_ins_c	Clofazimine	Chesov E, 2022	R
+Rv0678@x195_ins_t	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x195_ins_t	Clofazimine	Chesov E, 2022	R
+Rv0678@G66W	Bedaquiline 	Chesov E, 2022	R
+Rv0678@G66W	Clofazimine	Chesov E, 2022	R
+Rv0678@x436_ins_t	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x436_ins_t	Clofazimine	Chesov E, 2022	R
+Rv0678@R72W	Bedaquiline 	Chesov E, 2022	R
+Rv0678@R72W	Clofazimine	Chesov E, 2022	R
+atpE@I66M	Bedaquiline 	Chesov E, 2022	R
+atpE@A63P	Bedaquiline 	Chesov E, 2022	R
+atpE@A63P	Clofazimine	Chesov E, 2022	R
+atpE@E61D	Bedaquiline 	Chesov E, 2022	R
+atpE@I66M	Bedaquiline 	Chesov E, 2022	R
+Rv0678@x192_ins_c	Bedaquiline 	de Vos M, 2019	R
+Rv0678@x138_ins_ga	Bedaquiline 	de Vos M, 2019	R
+Rv0678@x138_ins_g	Bedaquiline 	de Vos M, 2019	R
+Rv0678@R107C	Bedaquiline 	Saeed DK, 2022	R
+Rv0678@L40F	Bedaquiline 	Saeed DK, 2022	R
+Rv0678@R50Q	Bedaquiline 	Saeed DK, 2022	R
+mmpL5@I948V	Bedaquiline 	Saeed DK, 2022	R
+mmpL5@I948V	Bedaquiline 	Saeed DK, 2022	R
+mmpL5@T794I	Bedaquiline 	Saeed DK, 2022	R
+atpE@a83c	Bedaquiline 	Degiacomi G, 2020	R
+atpE@a83g	Bedaquiline 	Degiacomi G, 2020	R
+Rv0678@c400t	Bedaquiline 	Degiacomi G, 2020	R
+Rv0678@a271c	Bedaquiline 	Degiacomi G, 2020	R
+Rv0678@S53P	Bedaquiline 	Wu SH, 2021	R
+Rv0678@I80S	Bedaquiline 	Wu SH, 2021	R
+Rv0678@L83P	Bedaquiline 	Wu SH, 2021	R
+Rv0678@F100Y	Bedaquiline 	Wu SH, 2021	R
+Rv0678@A102V	Bedaquiline 	Wu SH, 2021	R
+Rv0678@L114P	Bedaquiline 	Wu SH, 2021	R
+rrl@g2270t	Linezolid	Ushtanit A, 2021	R
+rrl@a2810c	Linezolid	Ushtanit A, 2021	R
+rrl@g2814t	Linezolid	Ushtanit A, 2021	R
+rplC@t460c	Linezolid	Ushtanit A, 2021	R
+atpE@A63P	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x193_del_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x192_ins_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@Y157C	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@R94W	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x193_del_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@R156	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@R82P	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@R94W	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x138_ins_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x141_ins_c	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x138_ins_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x141_ins_c	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x141_ins_c	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x140_ins_ct	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@A153P	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x192_ins_g	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x141_ins_c	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@I108V	Bedaquiline/ clofazimine	Andres S, 2020 	R
+Rv0678@x141_ins_c	Bedaquiline/ clofazimine	Andres S, 2020 	R
+rplC@Cys154Arg	Linezolid	Kabahita JM, 2022	R
+mmpL5@Ile948Val	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+mmpL5@Gly131Arg	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+mmpL5@Thr352Pro	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+Rv0678@Ala124Gly	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+Rv0678@Thr161Asn	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+Rv1979c@Ala128Ser	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+Rv1979c@Pro349Ala	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+pepQ@Ala224Ser,	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+pepQ@Leu300Arg	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+pepQ@Leu362Trp	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+rplC@Gly153Glu	Linezolid	Kabahita JM, 2022	R
+rplC@Ala155Asp	Linezolid	Kabahita JM, 2022	R
+rplC@Thr156Pro	Linezolid	Kabahita JM, 2022	R
+fgd1@Ser38Arg	Delamanid	Kabahita JM, 2022	R
+fgd1@Thr92Pro	Delamanid	Kabahita JM, 2022	R
+fgd1@Gly199Ala	Delamanid	Kabahita JM, 2022	R
+fbiC@Cys59Gly	Delamanid	Kabahita JM, 2022	R
+fbiC@Ile406Ser	Delamanid	Kabahita JM, 2022	R
+fbiC@Ile638Ser	Delamanid	Kabahita JM, 2022	R
+fbiC@Leu672Val	Delamanid	Kabahita JM, 2022	R
+fbiC@Leu672Arg	Delamanid	Kabahita JM, 2022	R
+fbiC@Pro686Ala	Delamanid	Kabahita JM, 2022	R
+fbiA@Val73Gly	Delamanid	Kabahita JM, 2022	R
+fbiA@Met319Arg	Delamanid	Kabahita JM, 2022	R
+fbiB@Ile18Val	Delamanid	Kabahita JM, 2022	R
+fbiB@Ser54Ala	Delamanid	Kabahita JM, 2022	R
+fbiB@Ala104Glu	Delamanid	Kabahita JM, 2022	R
+fbiB@Leu249Arg	Delamanid	Kabahita JM, 2022	R
+fbiB@Ser262Ala	Delamanid	Kabahita JM, 2022	R
+fbiB@Val263Gly	Delamanid	Kabahita JM, 2022	R
+Rv2983@His159Pro	Delamanid	Kabahita JM, 2022	R
+atpE@L49P	Bedaquiline	Singh BK, 2020	R
+Rv0678@V1A	Bedaquiline and Clofazimine	Bloemberg GV, 2015	R
+fbiA@D49Y	Delamanid	Bloemberg GV, 2015	R
+rrl@g2576t	Linezolid	Bloemberg GV, 2015	R
+Rv0678@t437c	Clofazimine	Xu J, 2017	R
+Rv0678@g5t	Clofazimine	Xu J, 2017	R
+Rv0678@c158t	Clofazimine	Xu J, 2017	R
+Rv0678@t350g	Clofazimine	Xu J, 2017	R
+Rv0678@x140_ins_g		Veziris N, 2017	R
+Rv0678@M139T	Bedaquiline	Veziris N, 2017	R
+Rv0678@L142R	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x144_ins_c	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x32_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x435_del_t	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x214_del_c	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x198_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x139_ins_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x291_del_c	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@M23L	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x19_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x198_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x468_ins_ga	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@V85A	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@F79S	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x137_ins_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x44_ins_a	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@S53P	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x198_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x336_del_c	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x421_ins_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x198_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x212_del_c	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@L122P	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x19_del_gg	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x198_del_g	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@C46R	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@x139_ins_tg	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@L40S	Bedaquiline	Zimenkov DV, 2017	R
+atpE@A63V	Bedaquiline	Zimenkov DV, 2017	R
+atpE@D28N	Bedaquiline	Zimenkov DV, 2017	R
+rplC@t460c	Linezolid	Zimenkov DV, 2017	R
+rplC@C154S	Linezolid	Zimenkov DV, 2017	R
+rplC@C154R	Linezolid	Zimenkov DV, 2017	R
+rrl@g2814t	Linezolid	Zimenkov DV, 2017	R
+rrl@c1921t	Linezolid	Zimenkov DV, 2017	R
+rrl@g2294a	Linezolid	Zimenkov DV, 2017	R
+Rv0678@Ser53Pro	Clofazimine	Pang Y, 2017	R
+Rv0678@Ser53Leu	Clofazimine	Pang Y, 2017	R
+rplC@Cys154Arg	Linezolid	Pang Y, 2017	R
+fbiC@Val318Ile	Delamanid	Pang Y, 2017	R
+ddn@L49P	Delamanid	Walker TM, 2022	R
+rplC@C154R	Linezolid	Walker TM, 2022	R
+ddn@R23P	Delamanid	Liu Y, 2022	R
+ddn@P63Q	Delamanid	Liu Y, 2022	R
+ddn@Y65*	Delamanid	Liu Y, 2022	R
+ddn@S78Y	Delamanid	Liu Y, 2022	R
+ddn@x237_ins_gcg	Delamanid	Liu Y, 2022	R
+ddn@E118K	Delamanid	Liu Y, 2022	R
+ddn@R142F	Delamanid	Liu Y, 2022	R
+fgd1@L70R	Delamanid	Liu Y, 2022	R
+fgd1@M93R	Delamanid	Liu Y, 2022	R
+fgd1@W284S	Delamanid	Liu Y, 2022	R
+fgd1@G304V	Delamanid	Liu Y, 2022	R
+fgd1@L321P	Delamanid	Liu Y, 2022	R
+fbiA@G8S	Delamanid	Liu Y, 2022	R
+fbiA@C65R	Delamanid	Liu Y, 2022	R
+fbiA@L143P	Delamanid	Liu Y, 2022	R
+fbiA@A199E	Delamanid	Liu Y, 2022	R
+fbiA@K250*	Delamanid	Liu Y, 2022	R
+fbiA@W288*	Delamanid	Liu Y, 2022	R
+fbiC@G258D	Delamanid	Liu Y, 2022	R
+fbiC@L377R	Delamanid	Liu Y, 2022	R
+fbiC@E598Q	Delamanid	Liu Y, 2022	R
+fbiC@H698D	Delamanid	Liu Y, 2022	R
+Rv1979c@R409Q	Clofazimine	Perumal R, 2023	R
+fgd1@t960c	Delamanid	Reichmuth ML, 2020 	R
+fbiC@Ala416Val	Delamanid	Reichmuth ML, 2020 	R
+fgd1@t960c	Delamanid	Reichmuth ML, 2020 	R
+rrl@g2814t	Linezolid	Wasserman S, 2019	R
+rrl@g2270t	Linezolid	Wasserman S, 2019	R
+rrl@g2270c	Linezolid	Wasserman S, 2019	R
+rrl@a2810c	Linezolid	Wasserman S, 2019	R
+rplC@t460c	Linezolid	Wasserman S, 2019	R
+rplC@t460c	Linezolid	Pi R, 2019	R
+rrl@g2814t	Linezolid	Pi R, 2019	R
+rrl@g2270t	Linezolid	Pi R, 2019	R
+rplC@C154R	Linezolid and Pretomanid	Hu M, 2020	R
+ddn@Y89H	Linezolid and Pretomanid	Hu M, 2020	R
+ddn@V61G	Linezolid and Pretomanid	Hu M, 2020	R
+fgd1@R212Q	Linezolid and Pretomanid	Hu M, 2020	R
+rplC@C154R	Linezolid 	Nambiar R, 2021	R
+rrl@g2814t	Linezolid 	Nambiar R, 2021	R
+rplC@Cys154Arg	Linezolid 	Zong Z, 2018 	R
