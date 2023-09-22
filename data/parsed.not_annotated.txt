@@ -1,0 +1,72 @@
+Rv0678@Gln51Arg	Bedaquiline	Yan Hu, 2023	R
+Rv0678@Phe19Ser	Bedaquiline	Yan Hu, 2023	R
+ddn-fbiA@V61G	Delamanid	Battaglia S, 2020 genes are in a range
+ddn-fbiA@I208V	Delamanid	Battaglia S, 2020 genes are in a range
+ddn-fbiA@N91T	Delamanid	Battaglia S, 2020 genes are in a range
+ddn-fbiA@V58I	Delamanid	Battaglia S, 2020 genes are in a range
+fbiA-fbiB@P159Q	Delamanid	Battaglia S, 2020 genes are in a range
+fbiA-fbiB@K448R	Delamanid	Battaglia S, 2020 genes are in a range
+fbiC@g112a	Delamanid	Battaglia S, 2020	R
+fbiC-fbiB@S280L	Delamanid	Battaglia S, 2020 genes are in a range
+fbiC-fbiB@R230Q	Delamanid	Battaglia S, 2020 genes are in a range
+fbiC-fbiB@L447R	Delamanid	Battaglia S, 2020 genes are in a range
+Rv0678@R31S	Clofazimine	Liu Y, 2021	R
+Rv0678@g65a	Clofazimine	Liu Y, 2021	R
+Rv0678@Arg38Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg38Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg50Trp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gln51Arg	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Glu54Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Glu55Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg72Trp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg72Leu	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Phe79Val	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Phe79Cys	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Gln115Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg132Pro	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg135Trp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Tyr145Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg156Ter	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+atpE@Asp28Gly	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+atpE@Asp28Val	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+atpE@Glu61Asp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+atpE@Glu61Asp	Bedaquiline and Clofazimine	Sonnenkalb L, 2023 	R
+Rv0678@Arg109Pro	Bedaquiline	Zheng H, 2021	R
+Rv0678@x110_del_a	Bedaquiline	Zheng H, 2021	R
+pepQ@g4115t	Clofazimine	Park S, 2022	R
+Rv0678@Asp47fs	Bedaquiline	Bainomugisa A, 2022	R
+ndh@Glu102fs	Clofazimine	Bainomugisa A, 2022	R
+atpE@a18a	Bedaquiline 	Saeed DK, 2022	R
+Rv0678@Ile68fs, G deletion at 193	Bedaquiline 	Chawla K, 2018	R
+Rv0678@Glu49fs	Bedaquiline	Kabahita JM, 2022	R
+Rv0678@Glu49fs	Clofazimine	Kabahita JM, 2022	R
+Rv0678@Asp141Glu	Bedaquiline and Clofazimine	Kabahita JM, 2022	R
+fgd1@Phe102Cys	Delamanid	Kabahita JM, 2022	R
+fgd1@Glu213Asp	Delamanid	Kabahita JM, 2022	R
+fbiC@Asp375Ala	Delamanid	Kabahita JM, 2022	R
+fbiC@Glu376Gly	Delamanid	Kabahita JM, 2022	R
+fbiC@Trp405Gly	Delamanid	Kabahita JM, 2022	R
+fbiC@Asp492Tyr	Delamanid	Kabahita JM, 2022	R
+fbiC@Glu503Gly	Delamanid	Kabahita JM, 2022	R
+fbiC@Asp673Ala	Delamanid	Kabahita JM, 2022	R
+fbiC@Glu692Ala	Delamanid	Kabahita JM, 2022	R
+fbiC@Glu152	Delamanid	Kabahita JM, 2022	R
+fbiB@Glu250Ala	Delamanid	Kabahita JM, 2022	R
+ddn@Glu35Lys	Delamanid	Kabahita JM, 2022	R
+ddn@Glu35Gly	Delamanid	Kabahita JM, 2022	R
+ddn@Asp108Glu	Delamanid	Kabahita JM, 2022	R
+rrl@a2572c	Linezolid	Bloemberg GV, 2015	R
+Rv0678@M1A	Bedaquiline	Hoffmann H, 2016	R
+Rv0678@A98V	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@g78a	Bedaquiline	Zimenkov DV, 2017	R
+Rv0678@Tyr157Asp	Clofazimine	Pang Y, 2017	R
+ddn@g53c	Delamanid	Liu Y, 2022	R
+fbiC@g604c	Delamanid	Liu Y, 2022	R
+ddn@Trp20Stop	Delamanid and Pretomanid	Mansjö M, 2022	R
+fbiA@Glu249Lys	Delamanid and Pretomanid	Wen S, 2019 	R
+fgd1@Lys270Met	Delamanid	Reichmuth ML, 2020 	R
+fbiC@Trp678Gly	Delamanid	Reichmuth ML, 2020 	R
+fgd1@Arg64Ser	Delamanid	Reichmuth ML, 2020 	R
+rrl@g2061t	Linezolid 	Zong Z, 2018 	R
+rplC@His155Asp	Linezolid 	Zong Z, 2018 	R
+rplD@Arg126His	Linezolid 	Zong Z, 2018 	R
