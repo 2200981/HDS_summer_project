@@ -1,6 +1,6 @@
 def _main():
     with open("tb_profiler_mutations.txt", "w") as tb:
-        with open("parsed1.annotated.txt", "r") as annotations:
+        with open("parsed.annotated.txt", "r") as annotations:
             for annotation in annotations:
                 (Mutation, Drug, Reference, Resistance) = annotation.strip().split('\t')
 
