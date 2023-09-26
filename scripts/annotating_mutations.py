@@ -22,7 +22,7 @@ def _main():
             print("gene_fasta_files[" + gene_name + "] --> " + gene_fasta_files[gene_name])
 
     # Reading mutations
-    with open('input_mutations.txt', 'r') as input_mutations:
+    with open('parsed.txt', 'r') as input_mutations:
         for line in input_mutations:
             (mut, drug, reference, resistance) = line.strip().split("\t")
             mutations = mut.split('+')
